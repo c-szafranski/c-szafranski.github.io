@@ -1,31 +1,27 @@
-header {background: #CA6F1E;color:#FFFFFF;
+header {background: #003333;color:#FFFFFF;
 min-height:50px;
 }
-footer {background: #CA6F1E;color:#FFFFFF;
-min-height:30px;
+footer {background: #003333;color:#FFFFFF;
+min-height:30px;width: 100%;
 }
 body{
- font-family: "Trebuchet";
+ font-family: "Trebuchet MS, sans-serif";
     font-size: 120%
 }
 h2{
- font-family: "Trebuchet";
+ font-family: "Trebuchet MS, sans-serif";
     font-size: 200%;
     font-weight: bold;
     color:#e6ffff 
 }
 h1{
-    font-family: "Trebuchet";
+    font-family: "Trebuchet MS, sans-serif";
     font-size: 100%;
     font-weight: bold;
     color:#e6ffff 
 }
 .container{
     width:800px;
-    display: -webkit-flex;
-    display: flex;
-    -webkit-flex-flow: row wrap;
-    flex-flow: row wrap;
     text-align: left;
     float:left;
 }
@@ -37,13 +33,11 @@ h1{
 
 .item-left{
     background-color: #c1f0f0;/*dark blue */
-    /*flex: 1 100%;*/
     float:left;
     width:75%;
     }
 .item-right{
     background-color: #196666;/*light blue */
-   /* flex: 1 100%;*/
     float:left;
     width:25%;
     }
