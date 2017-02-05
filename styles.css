@@ -20,7 +20,7 @@ h1{
     font-weight: bold;
     color:#e6ffff 
 }
-.container{
+#container{
     width:800px;
     text-align: left;
     float:left;
@@ -34,10 +34,10 @@ h1{
 .item-left{
     background-color: #c1f0f0;/*dark blue */
     float:left;
-    width:75%;
+    width:65%;
     }
 .item-right{
     background-color: #196666;/*light blue */
     float:left;
-    width:25%;
+    width:15%;
     }
