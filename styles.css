@@ -37,13 +37,13 @@ h1{
 
 .item-left{
     background-color: #c1f0f0;/*dark blue */
-    flex: 1 100%;
+    /*flex: 1 100%;*/
     float:left;
     width:75%;
     }
 .item-right{
     background-color: #196666;/*light blue */
-    flex: 1 100%;
+   /* flex: 1 100%;*/
     float:left;
     width:25%;
     }
