@@ -2,7 +2,7 @@ header {background: #003333;color:#FFFFFF;
 min-height:100px;
 }
 footer {background: #003333;color:#FFFFFF;
-min-height:30px;width: 100%;
+min-height:30px;width: 100%;clear:left
 }
 body{
  font-family: "Trebuchet MS, sans-serif";
@@ -24,11 +24,6 @@ h1{
     width:800px;
     text-align: left;
     float:left;
-}
-.banner{
-    width:100%;
-    background-color: #003333;
-        
 }
 
 .item-left{
