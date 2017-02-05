@@ -5,12 +5,18 @@ footer {background: #CA6F1E;color:#FFFFFF;
 min-height:30px;
 }
 body{
- font-family: "Georgia";
+ font-family: "Trebuchet";
     font-size: 120%
 }
+h2{
+ font-family: "Trebuchet";
+    font-size: 200%;
+    font-weight: bold;
+    color:#e6ffff 
+}
 h1{
-    font-family: "Georgia";
-    font-size: 120%;
+    font-family: "Trebuchet";
+    font-size: 100%;
     font-weight: bold;
     color:#e6ffff 
 }
@@ -25,18 +31,18 @@ h1{
 }
 .banner{
     width:100%;
-    background-color: #006666;
+    background-color: #003333;
         
 }
 
 .item-left{
-    background-color: #003333;/*dark blue */
+    background-color: #c1f0f0;/*dark blue */
     flex: 1 100%;
     float:left;
     width:75%;
     }
 .item-right{
-    background-color: #ccffff;/*light blue */
+    background-color: #196666;/*light blue */
     flex: 1 100%;
     float:left;
     width:25%;
