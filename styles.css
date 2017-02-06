@@ -16,6 +16,10 @@ footer {background: #003333;
 body{
 font-family: "Trebuchet MS", sans-serif;
     font-size: 100%
+     color: #0a2929;
+}
+p{
+ color:#0a2929;
 }
 h2{/**/
  font-family: "Trebuchet MS", sans-serif;
@@ -32,15 +36,18 @@ h1{
     width:800px;
     text-align: left;
     float:left;
+   margin:5px;
 }
 
 .item-left{
     background-color: #c1f0f0;/*dark blue */
     float:left;
     width:75%;
+ margin:5px;
     }
 .item-right{
     background-color: #196666;/*light blue */
     float:left;
     width:25%;
+ margin:5px;
     }
