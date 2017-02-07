@@ -8,9 +8,10 @@ min-height:100px;
 }
 footer {background: #003333;
  color:#FFFFFF;
- min-height:30px;
+ min-height:50px;
  width: 100%;
- clear:left
+ clear:left;
+  text-align:center; 
  
 }
 body{
@@ -36,6 +37,9 @@ h1{
     width:800px;
     text-align: left;
     float:left;
+  min-width:800px;
+    width: auto !important;/*locking width to not resize under 800px*/
+    
    
 }
 
