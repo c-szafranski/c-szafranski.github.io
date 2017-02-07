@@ -2,8 +2,9 @@ header {background: #003333;
  color:#FFFFFF;
 min-height:100px;
  font-family: "Trebuchet MS", sans-serif;
-    font-size: 300%;
-    font-weight: bold;
+    font-size: 500%;
+ font-variant: small-caps;
+    font-weight: 100;
  padding: 10px;
 }
 footer {background: #003333;
@@ -39,7 +40,7 @@ h1{
     text-align: left;
     float:left;
   min-width:800px;
-    width: auto !important;/*locking width to not resize under 800px*/
+    
     
    
 }
