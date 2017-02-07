@@ -11,7 +11,7 @@ footer {background: #003333;
  min-height:30px;
  width: 100%;
  clear:left
- padding: 10px;
+ 
 }
 body{
 font-family: "Trebuchet MS", sans-serif;
@@ -42,7 +42,7 @@ h1{
 .item-left{
     background-color: #c1f0f0;/*dark blue */
     float:left;
-    width:75%;
+    width:70%;
     padding: 10px
     }
 .item-right{
