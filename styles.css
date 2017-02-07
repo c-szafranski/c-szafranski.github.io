@@ -34,6 +34,7 @@ h1{
     color:#0a2929 
 }
 #container{
+ max-width:800px;
     width:800px;
     text-align: left;
     float:left;
