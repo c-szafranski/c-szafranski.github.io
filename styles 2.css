@@ -1,0 +1,116 @@
+header {
+    background: #003333;
+     color: whitesmoke;
+     min-height:100px;
+     font-family: "Trebuchet MS", sans-serif;
+     font-size: 500%;
+     font-variant: small-caps;
+     font-weight: 100;
+     padding: 10px;
+     min-width: 600px;
+}
+ footer {
+    background: #003333;
+     color:#FFFFFF;
+     min-height:50px;
+     width: 100%;
+     clear:left;
+     text-align:center;
+}
+ body{
+     font-family: "Trebuchet MS", sans-serif;
+     font-size: 100%;
+     min-width: 300px;
+     color: #0a2929;
+}
+ p{
+     color:#0a2929;
+}
+ h2{
+    /**/
+     font-family: "Trebuchet MS", sans-serif;
+     font-size: 120%;
+     color:#0a2929 
+}
+ h1{
+     font-family: "Trebuchet MS", sans-serif;
+     font-size: 150%;
+     font-weight: bold;
+     color:#0a2929 
+}
+ form{
+     background-color:#003333;
+     height: 30px;
+     padding:10px;
+     color: whitesmoke;
+     font-family: "Trebuchet MS", sans-serif;
+     min-width: 600px;
+}
+ check{
+     display:inline-block;
+}
+ checklabel{
+     color: whitesmoke;
+     font-family: "Trebuchet MS", sans-serif;
+     font-size: 14px;
+     display:inline-block;
+}
+ #container{
+     max-width:800px;
+     width:800px;
+     text-align: left;
+     float:left;
+     min-width:800px;
+}
+ .item-left{
+     background-color: #c1f0f0;
+    /*dark blue */
+     float:left;
+     width:70%;
+     padding: 10px 
+}
+ .item-right{
+     background-color: #196666;
+    /*light blue */
+     float:left;
+     width:25%;
+     padding: 10px 
+}
+ .card {
+     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+     background-color: cadetblue;
+     transition: 0.3s;
+     width: 100%;
+     height:100px;
+}
+ .card:hover {
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+ div.card div.card-left{
+     color: whitesmoke;
+}
+ .cardcontainer {
+     padding: 2px 16px;
+     margin: 10px;
+}
+ .card-left{
+     background-color: cadetblue;
+    /*dark blue */
+     position: relative;
+     width:60%;
+     height: 80px;
+     display:inline-block;
+}
+ .card-right{
+     background-color: cadetblue;
+    /*light blue */
+     position: relative;
+     float:right;
+     align-items:right;
+     width:30%;
+     margin-top: 15px;
+     padding-left:5px;
+     height:inherit;
+     display:inline-block;
+}
+ 
