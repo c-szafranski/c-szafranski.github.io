@@ -94,7 +94,7 @@ h1{
 .dev-title{
     font-family: 'Source Code Pro', monospace;
     font-weight: 100;
-    font-size: calc(5vw);
+    font-size: calc(10vw);
     text-align:center; 
     color:#effbff;
 }
@@ -106,7 +106,7 @@ h1{
     text-align:center; 
     font-family: 'Source Code Pro', monospace;
     font-weight: 100;
-    font-size: calc(10vw);
+    font-size: calc(8vw);
     text-shadow: 3px 3px 3px #000;
     color:#effbff; 
     position: relative;
